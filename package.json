@@ -1,8 +1,7 @@
-
 {
-  "name": "react-native-react-native-better-clipboard",
-  "version": "1.0.0",
-  "description": "",
+  "name": "react-native-better-clipboard",
+  "version": "0.1.0",
+  "description": "## Getting started",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +9,18 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Sanjay Guruprasad <sanjay@softrade.in> (http://sanjaypojo.com/)",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rune/react-native-better-clipboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rune/react-native-better-clipboard/issues"
+  },
+  "homepage": "https://github.com/rune/react-native-better-clipboard#readme"
 }
