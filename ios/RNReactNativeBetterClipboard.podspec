@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNReactNativeBetterClipboard"
-  s.version      = "1.0.0"
+  s.version      = "2.0.0"
   s.summary      = "RNReactNativeBetterClipboard"
   s.description  = <<-DESC
                   RNReactNativeBetterClipboard
@@ -20,5 +20,3 @@ Pod::Spec.new do |s|
   #s.dependency "others"
 
 end
-
-  

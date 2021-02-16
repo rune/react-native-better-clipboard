@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'RNReactNativeBetterClipboard'
-s.version          = '0.3.0'
+s.version          = '2.0.0'
 s.summary          = 'react-native-better-clipboard'
 
 s.description      = <<-DESC
